@@ -135,11 +135,11 @@ def comment_page(driver, urls, comment):
 def random_comment():
     # You can edit these lines if you want to add more comments===================================
     comments = [
-        'YES',
-        'oh good this is',
-        'and',
-        '_good job_'
-        'not a bot'
+        'HELL YA GREAT VIDEO',
+        'stay strong and keep going mate, awesome content.',
+        'yo chat ts fireee',
+        'good job        - ATLAS FLEET'
+        'ATLAS FLEET says "awesome! keep it up!"'
 
     ]
 # =============================================================================================
